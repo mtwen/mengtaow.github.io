@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publication.html}
+# jemdoc: nofooter
+= Research
+
+== Publications
+
+- [https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832?redirectedFrom=fulltext Semi-supervised distribution learning] \n
+Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changeling Zou.\n 
+/Biometrika/, 2025.
+
+- [https://www3.stat.sinica.edu.tw/sstest/oldpdf/A34n317.pdf Activation discovery with FDR control: Application to fMRI data] \n
+Mengtao Wen, Guanghui Wang, Changliang Zou, and Zhaojun Wang. \n 
+/Statistica Sinica/, 2024.
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0047259X23000702 False discovery rate approach to dynamic change detection] \n
+Lilun Du and Mengtao Wen. \n 
+/Journal of Multivariate Analysis/, 2023.
+
+== Software
+
+- [https://github.com/mtwen/SLIP SLIP], an R package for change-point discovery in large-scale data streams.
