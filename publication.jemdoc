@@ -4,16 +4,16 @@
 
 == Publications
 
-- [./documents/BASD24.pdf Semi-supervised distribution learning] \n
-Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changeling Zou.\n 
-/Biometrika/, 2025.
+- Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changeling Zou.\n 
+[./documents/BASD24.pdf Semi-supervised distribution learning.] \n
+/Biometrika/, 2025.\ \ \[[./documents/BASD24s.pdf Supp]\] \[[https://github.com/mtwen/BASD Code]\]
 
-- [./documents/SLIP22.pdf Activation discovery with FDR control: Application to fMRI data] \n
-Mengtao Wen, Guanghui Wang, Changliang Zou, and Zhaojun Wang. \n 
-/Statistica Sinica/, 2024.
+- Mengtao Wen, Guanghui Wang, Changliang Zou, and Zhaojun Wang. \n 
+[./documents/SLIP22.pdf Activation discovery with FDR control: Application to fMRI data.] \n
+/Statistica Sinica/, 2024.\ \ \[[./documents/SLIP22s.pdf Supp]\] \[[https://github.com/mtwen/SLIP Package]\]
 
-- [./documents/PADD23.pdf False discovery rate approach to dynamic change detection] \n
-Lilun Du and Mengtao Wen. \n 
+- Lilun Du and Mengtao Wen. \n 
+[./documents/PADD23.pdf False discovery rate approach to dynamic change detection.] \n
 /Journal of Multivariate Analysis/, 2023.
 
 == Software
