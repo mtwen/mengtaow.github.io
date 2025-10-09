@@ -4,8 +4,12 @@
 
 == Publications
 
+- Controlling the false discovery rate via model-agnostic importance measures. \n
+Mengtao Wen, Haojie Ren, and Changliang Zou. \n
+Under review. 
+
 - [https://academic.oup.com/biomet/article-abstract/112/1/asae056/7852832 Semi-supervised distribution learning]. \n
-Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changliang Zou.\n 
+Mengtao Wen, Yinxu Jia, Haojie Ren, Zhaojun Wang, and Changliang Zou. \n 
 /Biometrika/, 2025.\ \ \[[./documents/BASD24.pdf PDF]\]\ \[[./documents/BASD24s.pdf Supp]\] \[[https://github.com/mtwen/BASD R Code]\]
 
 - [https://www3.stat.sinica.edu.tw/statistica/j34n3/J34N317/J34N317.html Activation discovery with FDR control: Application to fMRI data]. \n
